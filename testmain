@@ -1,0 +1,4 @@
+int main() {
+cout <<"yas!";
+return 0;
+}
